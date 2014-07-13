@@ -7,10 +7,11 @@ be output to the console.
 
 ## Usage
 
-Just supply the saerch terms as parameters.
+Just supply the search terms as parameters.
 
 For example, if using leiningen:
-lein run shoreditch art
+
+    lein run shoreditch art
 
 ## License
 
